@@ -108,9 +108,9 @@
             <ITEXT CH="Certification"/>
             <para PARENT="Sidebar Heading"/>
             <ITEXT CH="Linux Foundation "/>
-            <para PARENT="Sidebar Text"/>
+            <para PARENT="Sidebar Text" LINESP="15"/>
             <ITEXT CH="Certified Engineer"/>
-            <para PARENT="Sidebar Text"/>
+            <para PARENT="Sidebar Text" LINESP="10"/>
             <ITEXT CH="OS  Administration"/>
             <para PARENT="Sidebar Heading"/>
             <ITEXT CH="Linux,"/>
